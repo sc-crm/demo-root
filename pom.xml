@@ -24,8 +24,6 @@
         <module>fastosd</module>
         <module>user-api</module>
         <module>user-svc</module>
-        <module>order-api</module>
-        <module>order-svc</module>
     </modules>
 
     <dependencyManagement>
